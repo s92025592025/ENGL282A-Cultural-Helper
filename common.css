@@ -18,3 +18,15 @@ body {
 	width: 60%;
 	padding-left: 10px;
 }
+
+.logo {
+	display: inline-block;
+}
+
+.logo-link {
+	color: black;	
+}
+
+.logo-link:hover {
+	color: black;
+}
