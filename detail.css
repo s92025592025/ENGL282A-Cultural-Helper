@@ -1,5 +1,6 @@
 #details {
 	padding-left: 20px;
+	overflow: hidden;
 }
 
 #details p {
@@ -8,4 +9,16 @@
 
 .chinese {
 	font-family: "微軟正黑體";
+}
+
+#misunderstood {
+	background-color: white;
+	float: right;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#usage {
+	width: 50%;
+	float: left;
 }
