@@ -30,3 +30,15 @@ body {
 .logo-link:hover {
 	color: black;
 }
+
+@media all and (orientation: portrait){
+	#search-top {
+		text-align: center;
+	}
+
+	#search-box {
+		margin-left: auto;
+		margin-right: auto;
+		width: 90%;
+	}
+}
