@@ -29,10 +29,27 @@
 	float: left;
 }
 
+#usage > div {
+	background-color: rgb(255,238,173);
+	padding: 10px;
+	border-radius: 10px;
+	margin-bottom: 5px;
+}
+
+#details h2 {
+	margin-top: 5px;
+}
+
 @media all and (orientation: portrait){
 	#misunderstood, #usage {
 		float: none;
 		width: 100%;
 		margin: 0px;
 	}
+
+	#misunderstood, #usage > div {
+		margin-bottom: 20px;
+	}
+
+	
 }

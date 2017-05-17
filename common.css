@@ -1,5 +1,8 @@
+/*http://www.color-hex.com/color-palette/895*/
+/*Refer to this color theme*/
+
 body {
-	background-color: rgb(230, 138, 0);
+	background-color: rgb(255,204,92);
 }
 
 #search-top {
@@ -11,7 +14,7 @@ body {
 	font-family: Impact;
 	font-size: 30px;
 	padding-left: 10px;
-	background-color: rgb(198, 200, 202);
+	background-color: rgb(136,216,176);
 }
 
 #search-box {
