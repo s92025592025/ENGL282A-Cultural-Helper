@@ -34,6 +34,10 @@ body {
 	color: black;
 }
 
+.input-group {
+	width: 0px;
+}
+
 @media all and (orientation: portrait){
 	#search-top {
 		text-align: center;
@@ -43,5 +47,9 @@ body {
 		margin-left: auto;
 		margin-right: auto;
 		width: 90%;
+	}
+
+	#search-box .hell {
+		width: 20px;
 	}
 }
