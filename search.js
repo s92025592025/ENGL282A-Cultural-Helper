@@ -5,7 +5,6 @@
 	const DATA = JSON.parse(FS.readFileSync(__dirname + "/data/data.json"));
 
 	window.onload = function (){
-		console.log("apple");
 		showResults(window.location.search.substring(1).split("=")[1]);
 	};
 
@@ -13,12 +12,17 @@
 	// post: the function should make a list on the page for topic that partitally or fully meet the key
 	function showResults(key){
 		var searchCount = 0;
+		key = new RegExp(key, "i");
 
 		// clear seach result
 		document.querySelector("#search-result ul").innerHTML = "";
 
 		for(var i = 0; i < DATA.length; i++){
-			document.querySelector("#search-result ul").appendChild(createDetailLink(DATA[i]));
+			if(key.test(DATA[i].topic)){
+				console.log("yaaaaa");
+			}else{	
+				console.log("naaaaa");
+			}
 		}
 	}
 
