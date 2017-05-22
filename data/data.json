@@ -1,9 +1,15 @@
 [
 	{
 		"topic": "EATEN BY A BEAR",
-		"misunderstood": "若以直接翻譯來說，\"被熊吃掉\"第一次聽到的人會有的想法。但是有時候這句話直接翻譯跟前後文的意思完全接不起來。若是如此，這句話就變成了更深層的意思。一般來說，被熊吃掉這件事是非常罕見，甚至根本不會發生事。不過如果真的不信發生了，就代表了說話者\"消失了\"。綜合起來，說這句話的人意思是<b>\"雖然這不太可能，但是如果我不在\\消失\\離開的話.......\"</b>。通常在這句話後還會在說明在之後會發生的事情",
+		"misunderstood": "若以直接翻譯來說，\"被熊吃掉\"第一次聽到的人會有的想法。但是有時候這句話直接翻譯跟;前後文的意思完全接不起來。若是如此，這句話就變成了更深層的意思。一般來說，被熊吃掉這件事是非常罕見，甚至根本不會發生事。不過如果真的不信發生了，就代表了說話者\"消失了\"。綜合起來，說這句話的人意思是<b>\"雖然這不太可能，但是如果我不在\\消失\\離開的話.......\"</b>。通常在這句話後還會在說明在之後會發生的事情",
 		"example": "<i>While I am working, whenever we establish a new kind of work to do, my boss always tell us to document the detail and say...</i><br /><br />
 					In case I'm <b>eaten by a bear</b>, we need to document everything down for people to understand how to do.",
 		"explain":"When people is saying \"Eaten by a Bear\", the speaker is saying that \"in case if he/she are not present, even if it is really unlikely to happend\". Eaten by some animal is extremely hard to happend in real life, and specifically eaten by a \"Bear\" is even harder. In addition, if someone is \"eaten\", one can never be present."
+	},
+	{
+		"topic": "How is It Going?",
+		"misunderstood": "這句話除了有在問<b>你過得如何</b>的意思，有時候也當作是一種問候語，跟 Hi, Hello 是一樣的意思，不需要回答自己過得如何也是可以的",
+		"example": "<i>Met a friend on the street...</i><br /><br />Friend: \"How is it going?\"<br />Me: \"Oh! Hi! Haven't seen you for quite a while.\"",
+		"explain": "<b>\"How is it going\"</b> can be served as either a question, literally, or just another way to say Hello, Hi... etc"
 	}
 ]
