@@ -12,7 +12,14 @@
 	// pre: should give a string to the key
 	// post: the function should make a list on the page for topic that partitally or fully meet the key
 	function showResults(key){
+		var searchCount = 0;
 
+		// clear seach result
+		document.querySelector("#search-result ul").innerHTML = "";
+
+		for(var i = 0; i < DATA.length; i++){
+			document.querySelector("#search-result ul").appendChild(createDetailLink(DATA[i]));
+		}
 	}
 
 	// pre: should give a single json object of the word
