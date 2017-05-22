@@ -12,18 +12,20 @@
 	// post: the function should make a list on the page for topic that partitally or fully meet the key
 	function showResults(key){
 		var searchCount = 0;
-		key = new RegExp(key, "i");
+		var reg = new RegExp(key, "i");
 
 		// clear seach result
 		document.querySelector("#search-result ul").innerHTML = "";
 
 		for(var i = 0; i < DATA.length; i++){
-			if(key.test(DATA[i].topic)){
-				console.log("yaaaaa");
-			}else{	
-				console.log("naaaaa");
+			if(reg.test(DATA[i].topic)){
+				document.querySelector("#search-result ul").appendChild(createDetailLink(DATA[i]));
+				searchCount++;
 			}
 		}
+
+		// update the amount of search
+		document.querySelector("#search-result p").innerHTML = searchCount + " Results matched <b>\"" + key + "\"</b>";
 	}
 
 	// pre: should give a single json object of the word
