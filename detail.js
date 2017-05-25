@@ -69,6 +69,26 @@
 	// post: will show the information the contains in the Cutural type data
 	function showCuturalDetail(word){
 		cleanDetail();
+
+		// misunderstood part
+		var misH2 = document.createElement("h2");
+		var misP = document.createElement("p");
+		misH2.innerHTML = "You Might be Thinking......";
+		misP.classList.add("chinese");
+		misP.innerHTML = word.misunderstood;
+		document.querySelector("#misunderstood").appendChild(misH2);
+		document.querySelector("#misunderstood").appendChild(misP);
+
+		// usage part
+			// explanation
+		var explainDiv = document.createElement("div");
+		var explainH2 = document.createElement("h2");
+		var explainP = document.createElement("P");
+		explainH2.innerHTML = "Explanation";
+		explainP.innerHTML = word.explain;
+		explainDiv.appendChild(explainH2);
+		explainDiv.appendChild(explainP);
+		document.querySelector("#usage").appendChild(explainDiv);
 	}
 
 	// pre: when need to load new explanation
