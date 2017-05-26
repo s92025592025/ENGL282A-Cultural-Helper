@@ -41,6 +41,11 @@
 }
 
 @media all and (orientation: portrait){
+	h1 {
+		font-size: 50pt;
+		margin-top: 30px;
+	}
+
 	#misunderstood, #usage {
 		float: none;
 		width: 100%;
@@ -48,8 +53,19 @@
 	}
 
 	#misunderstood, #usage > div {
+		padding: 25px;
+	}
+
+	#misunderstood, #usage > div {
 		margin-bottom: 20px;
 	}
 
+	#misunderstood h2, #usage h2 {
+		font-size: 45pt;
+	}
+
+	#misunderstood p, #usage p {
+		font-size: 35pt;
+	}
 	
 }
