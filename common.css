@@ -39,8 +39,13 @@ body {
 }
 
 @media all and (orientation: portrait){
+	.logo {
+		font-size: 50pt;
+	}
+	
 	#search-top {
 		text-align: center;
+		padding-bottom: 20px;
 	}
 
 	#search-box {
@@ -51,5 +56,14 @@ body {
 
 	#search-box .hell {
 		width: 20px;
+	}
+
+	#search-box input, #search-box button {
+		height: 60px;
+		font-size: 25pt;
+	}
+	
+	#search-box button {
+		width: 100px;
 	}
 }
