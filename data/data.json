@@ -28,5 +28,12 @@
 		"misunderstood": "這句話有兩種意思，除了有<b>\"我很酷\"</b>的意思之外，還有<b>\"我不需要\"</b>的意思",
 		"example": "<i>Situation 1</i><br /><i>When I'm playing backetball, I just did a complicated move and all of my friends are surprised</i><br /><br />Me: Guys, did you see that?! <b>I'm cool.</b><br /><br /><i>Situation 2</i><br /><br />Cashier: \"Do you need any pepper?\"<br />Me:\"Nope, <b>I'm cool</b>.\"",
 		"explain": "This sentence literally means that \"I'm Cool\", but the other meaning is to say that <b>\"I don't need it\"</b>. Other similar usage would be like <b>\"I'm Good\"</b>, <b>\"I'm Fine\"</b>"
+	},
+	{
+		"id": 5,
+		"topic": "What's Up!",
+		"misunderstood": "這句話不是在問你上面有什麼，那是在問你說<b>\"你過得如何\"</b>, 或者是當作是在<b>打招呼</b>。",
+		"example": "Friend: <b>Hey, What's up!</b><br />Me: Good, you?",
+		"explain": "This doesn't mean the speaker is asking what is above you, it is asking <b>\"How are you\"</b>, or just saying <b>Hello</b> or <b>Hi</b> to you"
 	}
 ]
