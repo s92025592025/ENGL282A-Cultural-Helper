@@ -31,6 +31,7 @@
 	},
 	{
 		"id": 5,
+		"type": "Slangs",
 		"topic": "What's Up!",
 		"misunderstood": "這句話不是在問你上面有什麼，那是在問你說<b>\"你過得如何\"</b>, 或者是當作是在<b>打招呼</b>。",
 		"example": "Friend: <b>Hey, What's up!</b><br />Me: Good, you?",
