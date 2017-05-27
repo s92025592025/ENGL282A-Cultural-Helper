@@ -4,7 +4,7 @@
 		"type": "Slangs",
 		"misunderstood": "若以直接翻譯來說，\"被熊吃掉\"第一次聽到的人會有的想法。但是有時候這句話直接翻譯跟;前後文的意思完全接不起來。若是如此，這句話就變成了更深層的意思。一般來說，被熊吃掉這件事是非常罕見，甚至根本不會發生事。不過如果真的不信發生了，就代表了說話者\"消失了\"。綜合起來，說這句話的人意思是<b>\"雖然這不太可能，但是如果我不在\\消失\\離開的話.......\"</b>。通常在這句話後還會在說明在之後會發生的事情",
 		"example": "<i>While I am working, whenever we establish a new kind of work to do, my boss always tell us to document the detail and say...</i><br /><br />In case I'm <b>eaten by a bear</b>, we need to document everything down for people to understand how to do.",
-		"explain": "When people is saying \"Eaten by a Bear\", the speaker is saying that \"in case if he/she are not present, even if it is really unlikely to happend\". Eaten by some animal is extremely hard to happend in real life, and specifically eaten by a \"Bear\" is even harder. In addition, if someone is \"eaten\", one can never be present."
+		"explain": "When people is saying \"Eaten by a Bear\", the speaker is saying that \"in case if he/she are not present, even if it is really unlikely to happen\". Eaten by some animal is extremely hard to happen in real life, and specifically eaten by a \"Bear\" is even harder. In addition, if someone is \"eaten\", one can never be present."
 	},
 	{
 		"id": 2,
@@ -17,7 +17,7 @@
 	{
 		"id": 3,
 		"topic": "Oprah Winfrey",
-		"type": "Cutural",
+		"type": "Cultural",
 		"misunderstood": "歐普拉，美國電視脫口秀主持人",
 		"explain": "She is an American media proprietor, talk show host, actress, producer, and philanthropist. See <a href=\"https://en.wikipedia.org/wiki/Oprah_Winfrey\">Wiki</a> for more"
 	},
@@ -26,7 +26,7 @@
 		"topic": "I'm Cool",
 		"type": "Slangs",
 		"misunderstood": "這句話有兩種意思，除了有<b>\"我很酷\"</b>的意思之外，還有<b>\"我不需要\"</b>的意思",
-		"example": "<i>Situation 1</i><br /><i>When I'm playing backetball, I just did a complicated move and all of my friends are surprised</i><br /><br />Me: Guys, did you see that?! <b>I'm cool.</b><br /><br /><i>Situation 2</i><br /><br />Cashier: \"Do you need any pepper?\"<br />Me:\"Nope, <b>I'm cool</b>.\"",
+		"example": "<i>Situation 1</i><br /><i>When I'm playing basketball, I just did a complicated move and all of my friends are surprised</i><br /><br />Me: Guys, did you see that?! <b>I'm cool.</b><br /><br /><i>Situation 2</i><br /><br />Cashier: \"Do you need any pepper?\"<br />Me:\"Nope, <b>I'm cool</b>.\"",
 		"explain": "This sentence literally means that \"I'm Cool\", but the other meaning is to say that <b>\"I don't need it\"</b>. Other similar usage would be like <b>\"I'm Good\"</b>, <b>\"I'm Fine\"</b>"
 	},
 	{
@@ -39,10 +39,18 @@
 	},
 	{
 		"id": 6,
-		"type": "Cutural",
+		"type": "Cultural",
 		"topic": "Girl Scout Cookies",
 		"misunderstood": "女童軍餅乾，每年固定時間會由女童軍出來販售",
 		"explain": "Girl Scout Cookies are sold annually by the United States Girl Scout as a fundraiser. Since their cookies are sold annually and they seemed to taste good, so \"Girl Scout Cookies\" has made itself a brand. See <a href=\"https://en.wikipedia.org/wiki/Girl_Scout_Cookies\">Wiki</a> for more information"
 
+	},
+	{
+		"id": 7,
+		"type": "Slangs",
+		"topic": "Wall of Text",
+		"misunderstood": "這句話的意思是<b>\"難以閱讀\"。如同這句話的直接翻譯，寫滿整面牆的文字是非常難以閱讀的。</b>",
+		"example": "This lecture slides are just like <b>a wall of text</b>, no one could understand what is going on.",
+		"explain": "If a large piece of text is written on a wall without spacing, it would be really hard to read through it. Therefore, this idiom has the meaning of something hard to read or understand."
 	}
 ]

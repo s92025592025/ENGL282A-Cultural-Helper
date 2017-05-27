@@ -12,7 +12,7 @@
 		// change page title
 		document.querySelector("h1").innerHTML = word.topic;
 
-		if(word.type == "Cutural"){
+		if(word.type == "Cultural"){
 			showCuturalDetail(word);
 		}else{
 			showSlangDetail(word);
