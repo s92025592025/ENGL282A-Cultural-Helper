@@ -36,5 +36,13 @@
 		"misunderstood": "這句話不是在問你上面有什麼，那是在問你說<b>\"你過得如何\"</b>, 或者是當作是在<b>打招呼</b>。",
 		"example": "Friend: <b>Hey, What's up!</b><br />Me: Good, you?",
 		"explain": "This doesn't mean the speaker is asking what is above you, it is asking <b>\"How are you\"</b>, or just saying <b>Hello</b> or <b>Hi</b> to you"
+	},
+	{
+		"id": 6,
+		"type": "Cutural",
+		"topic": "Girl Scout Cookies",
+		"misunderstood": "女童軍餅乾，每年固定時間會由女童軍出來販售",
+		"explain": "Girl Scout Cookies are sold annually by the United States Girl Scout as a fundraiser. Since their cookies are sold annually and they seemed to taste good, so \"Girl Scout Cookies\" has made itself a brand. See <a href=\"https://en.wikipedia.org/wiki/Girl_Scout_Cookies\">Wiki</a> for more information"
+
 	}
 ]
