@@ -52,5 +52,13 @@
 		"misunderstood": "這句話的意思是<b>\"難以閱讀\"。如同這句話的直接翻譯，寫滿整面牆的文字是非常難以閱讀的。</b>",
 		"example": "This lecture slides are just like <b>a wall of text</b>, no one could understand what is going on.",
 		"explain": "If a large piece of text is written on a wall without spacing, it would be really hard to read through it. Therefore, this idiom has the meaning of something hard to read or understand."
+	},
+	{
+		"id": 8,
+		"type": "Slangs",
+		"topic": "No Need to Reinvent the Wheel",
+		"misunderstood": "如同字面上的意思，<b>\"不需要去重新發明人家已經做過的事\"</b>。",
+		"example": "I believe someone might have done the same thing, so just search it on the web. We <b>don't have to reinvent the wheel.</b>",
+		"explain": "This means that it is not necessary to think a new way of doing things."
 	}
 ]
