@@ -60,5 +60,13 @@
 		"misunderstood": "如同字面上的意思，<b>\"不需要去重新發明人家已經做過的事\"</b>。",
 		"example": "I believe someone might have done the same thing, so just search it on the web. We <b>don't have to reinvent the wheel.</b>",
 		"explain": "This means that it is not necessary to think a new way of doing things."
+	},
+	{
+		"id": 9,
+		"type": "Slangs",
+		"topic": "I Know a Guy",
+		"misunderstood": "表面上是指說我認識一個人，實際上意思是說<b>\"我有辦法搞定\"。這個認識的人是很特別的，他可以幫忙解決這個問題。</b>",
+		"example": "I only need two days to solve this problem perfectly. <b>I know a guy.</b>",
+		"explain": "It's basically that someone knows a special person, that can help to solve this issue."
 	}
 ]
